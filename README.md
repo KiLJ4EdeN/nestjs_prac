@@ -4,7 +4,7 @@ reading on nestjs
 ```bash
 npm install -g @nestjs/cli
 nest new hello-world-nest
-cd bookstore-nest
+cd hello-world-nest
 npm run start
 ```
 
